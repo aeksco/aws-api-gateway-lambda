@@ -1,0 +1,9 @@
+{
+  "name": "generate-pdf-lambda",
+  "version": "1.0.0",
+  "description": "Generates a PDF when the source HTML file is uploaded to S3",
+  "private": true,
+  "dependencies": {
+    "@codotype/core": "0.8.0-canary.18"
+  }
+}
