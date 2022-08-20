@@ -22,30 +22,30 @@ cdk deploy
 
 ### Scripts
 
-- `yarn install` - installs dependencies
-- `yarn build` - builds the production-ready CDK Stack
-- `yarn test` - runs Jest
-- `cdk bootstrap` - bootstraps AWS Cloudformation for your CDK deploy
-- `cdk deploy` - deploys the CDK stack to AWS
+-   `yarn install` - installs dependencies
+-   `yarn build` - builds the production-ready CDK Stack
+-   `yarn test` - runs Jest
+-   `cdk bootstrap` - bootstraps AWS Cloudformation for your CDK deploy
+-   `cdk deploy` - deploys the CDK stack to AWS
 
 **Notes**
 
-- Includes very basic tests with Jest.
+-   Includes very basic tests with Jest.
 
 **Built with**
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [Jest](https://jestjs.io)
-- [AWS CDK](https://aws.amazon.com/cdk/)
-- [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-- [AWS Lambda](https://aws.amazon.com/lambda/)
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [Jest](https://jestjs.io)
+-   [AWS CDK](https://aws.amazon.com/cdk/)
+-   [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+-   [AWS Lambda](https://aws.amazon.com/lambda/)
 
 **Additional Resources**
 
-- [CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html)
-- [CDK TypeScript Reference](https://docs.aws.amazon.com/cdk/api/latest/typescript/api/index.html)
-- [CDK Assertion Package](https://github.com/aws/aws-cdk/tree/master/packages/%40aws-cdk/assert)
-- [awesome-cdk repo](https://github.com/eladb/awesome-cdk)
+-   [CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html)
+-   [CDK TypeScript Reference](https://docs.aws.amazon.com/cdk/api/latest/typescript/api/index.html)
+-   [CDK Assertion Package](https://github.com/aws/aws-cdk/tree/master/packages/%40aws-cdk/assert)
+-   [awesome-cdk repo](https://github.com/eladb/awesome-cdk)
 
 **License**
 

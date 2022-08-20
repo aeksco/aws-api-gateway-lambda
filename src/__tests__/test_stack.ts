@@ -5,13 +5,13 @@ import { ApiGatewayStack } from "../stack";
 // // // //
 
 describe("ApiGatewayStack", () => {
-  test("loads", () => {
-    const app = new cdk.App();
+    test("loads", () => {
+        const app = new cdk.App();
 
-    // Configures CDK stack
-    const stack: cdk.Stack = new ApiGatewayStack(app, "ApiGatewayStack");
+        // Configures CDK stack
+        const stack: cdk.Stack = new ApiGatewayStack(app, "ApiGatewayStack");
 
-    // Checks stack resource count
-    expectCDK(stack).to(countResources("AWS::Lambda::Function", 1));
-  });
+        // Checks stack resource count
+        expectCDK(stack).to(countResources("AWS::Lambda::Function", 1));
+    });
 });
