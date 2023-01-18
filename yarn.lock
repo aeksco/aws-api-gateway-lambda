@@ -861,10 +861,10 @@ aws-cdk-lib@^2.55.1:
     semver "^7.3.8"
     yaml "1.10.2"
 
-aws-sdk@^2.1281.0:
-  version "2.1281.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1281.0.tgz#dba7015f095cc587fc2077ee6eb6b183742336f4"
-  integrity sha512-nrDezd78ebYSI58iGTxNR5j6l/beYAGO0pAPMITg/Ili6SUCIGL3359fv2gxhVOI2NIwOsKs5/Mjr83+6G+zCQ==
+aws-sdk@^2.1296.0:
+  version "2.1296.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1296.0.tgz#5194b3856874938bc6c682dfdb7aa276e7a8e6e9"
+  integrity sha512-6Nm6zQexyne8lVy+BW8jklGpS36mXJjq67zlsn5XuyB3+qAMlolzar9nxgtuabvb/tSQTP4RSwlhkVzOct+MvA==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
